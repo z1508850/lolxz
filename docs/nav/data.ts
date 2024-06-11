@@ -10,35 +10,35 @@ export const NAV_DATA: NavData[] = [
     title: '常用工具',
     items: [
       {
-        icon: 'https://caniuse.com/img/favicon-128.png',
-        title: 'Can I use',
-        desc: '前端 API 兼容性查询',
-        link: 'https://caniuse.com',
+        icon: 'https://www.raylink.live/logo.ico',
+        title: 'Raylink',
+        desc: 'Raylink-超流畅远程控制软件！',
+        link: 'https://www.raylink.live/download.html',
       },
       {
-        icon: 'https://tinypng.com/images/apple-touch-icon.png',
-        title: 'TinyPNG',
-        desc: '在线图片压缩工具',
-        link: 'https://tinypng.com',
+        icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/cQyipdiNxkC0vwkfgXRD5uR997OdYXt7cveXSt4m.png',
+        title: 'Todesk',
+        desc: 'Todesk远程协助 方便快速 传输文件限速',
+        link: 'https://www.todesk.com/download.html',
       },
-      {
-        icon: 'https://devtool.tech/logo.svg',
-        title: '开发者武器库',
-        desc: '开发者武器库，做开发者最专业最好用的专业工具箱',
-        link: 'https://devtool.tech',
-      },
-      {
-        icon: 'https://tool.lu/favicon.ico',
-        title: '在线工具',
-        desc: '开发人员的工具箱',
-        link: 'https://tool.lu',
-      },
-      {
-        icon: '/icons/json-cn.ico',
-        title: 'Json 中文网',
-        desc: 'JSON 在线解析及格式化验证',
-        link: 'https://www.json.cn',
-      },
+  {
+    icon: 'https://cdn3.codesign.qq.com/screens/2023/10/28/xDP3923q4EY410jwlKp28/z3fvdqcm8bpgjjbu/81ea4c29-c2b4-4fd4-bcf7-1cbff62a510a.jpg',
+    title: '四件套运行组件',
+    desc: '四件套运行组件 解决大部分辅助无法正常运行',
+    link: 'https://pan-su.lanzoum.com/iRF2K0xbyv7c',
+  },
+  {
+    icon: 'https://cdn3.codesign.qq.com/screens/2023/10/28/xDP3923q4EY410jwlKp28/z3fvdqcm8bpgjjbu/81ea4c29-c2b4-4fd4-bcf7-1cbff62a510a.jpg',
+    title: 'DX修复',
+    desc: 'DX修复 解决大部分辅助无法正常运行',
+    link: 'https://pan-su.lanzoum.com/iuec80xbywwd',
+  },
+  {
+    icon: 'https://cdn3.codesign.qq.com/screens/2023/10/28/xDP3923q4EY410jwlKp28/z3fvdqcm8bpgjjbu/81ea4c29-c2b4-4fd4-bcf7-1cbff62a510a.jpg',
+    title: '清理残留工具',
+    desc: '清理残留工具',
+    link: 'https://pan-su.lanzoum.com/ioOJF14mqkcb',
+  }
     ],
   },
   {
