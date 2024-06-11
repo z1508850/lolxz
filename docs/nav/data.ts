@@ -138,12 +138,7 @@ export const NAV_DATA: NavData[] = [
     desc: '自带BOT 密码123',
     link: 'https://wwk.lanzouj.com/b04w5imeb',
   },
-  {
-    icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/iUfxgddQsfxqORjavVfkgxqMAu3hli1HhJVfBHyU.png',
-    title: 'OZ',
-    desc: '一体化防封+足本ATMT 密码123',
-    link: 'https://www.lanzouw.com/b04f7eh6j',
-  },
+  
       {
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298078d2e13.png',
     title: 'KDA',
@@ -221,11 +216,11 @@ export const NAV_DATA: NavData[] = [
   {
     title: '周卡专区',
     items: [
-      {
-    icon: 'https://vip.helloimg.com/i/2024/04/25/662981484d59b.png',
-    title: '4K',
-    desc: '原NN 支持BOT EZ BGX 密码6666',
-    link: 'https://stame.lanzoul.com/b0eclc0di',
+    {
+    icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/iUfxgddQsfxqORjavVfkgxqMAu3hli1HhJVfBHyU.png',
+    title: 'OZ++',
+    desc: '一体化防封+足本ATMT 密码123',
+    link: 'https://www.lanzouw.com/b04f7eh6j',
   },
   {
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298078e06e4.png',
@@ -255,6 +250,12 @@ export const NAV_DATA: NavData[] = [
   {
     title: '走砍一体',
     items: [
+      {
+    icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/iUfxgddQsfxqORjavVfkgxqMAu3hli1HhJVfBHyU.png',
+    title: 'OZ',
+    desc: '一体化防封+足本ATMT 密码123',
+    link: 'https://www.lanzouw.com/b04f7eh6j',
+  },
       {
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298079005f2.png',
     title: '无心',
