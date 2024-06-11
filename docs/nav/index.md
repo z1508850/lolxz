@@ -10,7 +10,11 @@ import { NAV_DATA } from './data'
 
 # 前端导航
 ::: tip
-该导航由 [maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
+当前游戏版本: **14.11**
+更新时间: **2024年5月30日**
+预计下版本更新时间: **2024年6月12日**
+
+未找到新FF或地址失效反馈邮箱 [xzwplol@outlook.com](mailto:xzwplol@outlook.com)
 :::
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
