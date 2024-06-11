@@ -8,7 +8,7 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# 前端导航
+# 下载导航
 ::: tip
 当前游戏版本: **14.11**
 更新时间: **2024年5月30日**
@@ -19,5 +19,9 @@ import { NAV_DATA } from './data'
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 
-<br />
+---
+comment: false
+---
+
+
 
