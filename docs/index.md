@@ -1,7 +1,7 @@
 ---
 layout: home
 layoutClass: 'm-home-layout'
-
+comment: false
 hero:
   name: LOL
   text: 下载网盘
@@ -69,6 +69,3 @@ features:
   text-align: right;
 }
 </style>
----
-comment: false
----
