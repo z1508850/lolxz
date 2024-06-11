@@ -168,7 +168,54 @@ export const NAV_DATA: NavData[] = [
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwk.lanzouo.com/b00l0t6pyh',
       },
-    
+      {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: 'PP',
+        desc: '支持BOT 密码123',
+        link: 'https://wwo.lanzouq.com/b00oc05i2d',
+      },
+       {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: 'Fendi',
+        desc: '支持BOT EZ 密码123',
+        link: 'https://wwz.lanzouq.com/b00rn2rsxc',
+      },
+       {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: '大马猴',
+        desc: '支持BOT EZ BGX 密码123',
+        link: 'https://wwz.lanzouq.com/b0foii4kf',
+      },
+       {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: 'GPT',
+        desc: '支持BOT EZ BGX 密码123',
+        link: 'https://wwo.lanzouq.com/b00oc0j3lg',
+      },
+      {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: 'QQQ',
+        desc: '支持BOT EZ BGX 密码123',
+        link: 'https://wwo.lanzoul.com/b00tamvqwh',
+      },
+       {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: '1#',
+        desc: '支持BOT EZ 密码123',
+        link: 'https://wuqituxing.lanzouo.com/b00654veob',
+      },
+       {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: 'ZTX',
+        desc: '自带BGX 密码123',
+        link: 'https://www.lanzoub.com/b00tanhn1a',
+      },
+      {
+        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        title: 'DD',
+        desc: '自带BGX 密码123',
+        link: 'https://www.lanzoub.com/b0fhsucoh',
+      },
     ],
   },
   {
@@ -265,6 +312,12 @@ export const NAV_DATA: NavData[] = [
     title: 'US',
     desc: 'BOT缓存 销量第一 密码123',
     link: 'https://wwmx.lanzoum.com/b052ig10d',
+  },
+      {
+    icon: 'https://cdn3.codesign.qq.com/screens/2023/10/28/xDP3923q4EY410jwlKp28/z3fvdqcm8bpgjjbu/81ea4c29-c2b4-4fd4-bcf7-1cbff62a510a.jpg',
+    title: 'R星',
+    desc: 'BOT缓存 密码123',
+    link: 'https://www.lanzouu.com/b039plb8d',
   },
   {
     icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/germ9dNY295D34CLt3fyIArM6eHEaTmGfYxW2Hos.png',
