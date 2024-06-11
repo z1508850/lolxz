@@ -300,14 +300,9 @@ export const NAV_DATA: NavData[] = [
   },
  
   {
-    title: '摸鱼专用',
+    title: '摸鱼专区',
     items: [
-      {
-        icon: 'https://momoyu.cc/icon-192.png',
-        title: '摸摸鱼热榜',
-        // desc: '聚合每日热门、搞笑、有趣、适合摸鱼的资讯',
-        link: 'https://momoyu.cc',
-      },
+     
       {
         icon: 'https://v.qq.com/favicon.ico',
         title: '腾讯视频',
@@ -321,10 +316,10 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.bilibili.com',
       },
       {
-        icon: 'https://www.youtube.com/s/desktop/014dbbed/img/favicon_48x48.png',
-        title: 'YouTube',
+        icon: 'https://www.iqiyipic.com/common/images/logo.ico',
+        title: '爱奇艺',
         // desc: '',
-        link: 'https://www.youtube.com',
+        link: 'https://www.iqiyi.com/',
       },
       {
         icon: '/icons/twitter.svg',
