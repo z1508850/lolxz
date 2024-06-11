@@ -27,7 +27,7 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    
+    logo: 'https://vip.helloimg.com/i/2024/06/11/66681ed70ba35.png',
 
     nav,
     sidebar,
