@@ -66,16 +66,15 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'xzwplol.vitepress-nav-template',
+      badgeId: 'maomao1996.vitepress-nav-template',
     },
 
     comment: {
-      repo: 'xzwp/vitepress-nav-template',
+      repo: 'maomao1996/vitepress-nav-template',
       repoId: 'R_kgDOJC09Jg',
       category: 'Announcements',
       categoryId: 'DIC_kwDOJC09Js4Cekn0',
     },
-  },
 
   vite: {
     plugins: [MarkdownPreview()],
