@@ -130,7 +130,7 @@ export const NAV_DATA: NavData[] = [
     icon: 'https://vip.helloimg.com/i/2024/05/14/6642ed4705264.png',
     title: 'N++',
     desc: '支持BOT EZ BGX 密码123',
-    link: 'https://wwt.lanzoum.com/b00rn15u2f',
+    link: 'https://wwc.lanzn.com/s/N--666',
   },
   {
     icon: 'https://vip.helloimg.com/i/2024/04/30/66306107deff4.png',
