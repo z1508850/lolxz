@@ -3,14 +3,14 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
+  name: LOL
+  text: 下载网盘
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: LOL下载网盘
   actions:
-    - text: 茂茂物语
+    - text: LOL下载网盘
       link: https://notes.fe-mm.com
     - text: 前端导航
       link: /nav/
