@@ -1,7 +1,8 @@
+@font-face{font-family:"MyFont";src:url("https://cdn3.codesign.qq.com/screens/2023/09/14/xDP3923q4EY409jwlKp14/nhyawbve23fq764v/7fd2e13c-8889-4df9-8e16-940b065f4d1a.png")format("woff2"),url("https://cdn3.codesign.qq.com/screens/2023/09/14/xDP3923q4EY409jwlKp14/nhyawbve23fq764v/e46ef2a7-10b7-4146-aee6-c3896d9c4175.png")format("woff")}
 .m-nav-layout {
   /* 覆盖全局的 vp-layout-max-width（仅当前页面使用） */
   --vp-layout-max-width: 1660px;
-
+font-family:"MyFont";
   /* layout 样式 */
   .container {
     max-width: var(--vp-layout-max-width) !important;
