@@ -315,12 +315,7 @@ export const NAV_DATA: NavData[] = [
         // desc: '',
         link: 'https://www.bilibili.com',
       },
-      {
-        icon: 'https://www.iqiyipic.com/common/images/logo.ico',
-        title: '爱奇艺',
-        // desc: '',
-        link: 'https://www.iqiyi.com/',
-      },
+     
       {
         icon: '/icons/twitter.svg',
         title: 'Twitter',
