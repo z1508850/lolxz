@@ -25,7 +25,7 @@ export default defineConfig({
 
   /* 主题配置 */
   themeConfig: {
-    i18nRouting: false,
+    i18nRouting: ture,
 
     logo: 'https://vip.helloimg.com/i/2024/06/11/66681ed70ba35.png',
 
