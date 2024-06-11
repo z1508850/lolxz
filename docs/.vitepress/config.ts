@@ -12,7 +12,7 @@ export default defineConfig({
 
   lang: 'zh-CN',
   title: 'LOL下载网盘',
-  description: '茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等',
+  description: 'LOL下载网盘',
   head,
 
   lastUpdated: true,
@@ -41,8 +41,8 @@ export default defineConfig({
    
 
     footer: {
-      message: '如有转载或 CV 的请标注本站原文地址',
-      copyright: 'Copyright © 2019-present maomao',
+     
+      copyright: 'Copyright © 2023-2024 LOL综合下载网盘',
     },
 
     lastUpdated: {
