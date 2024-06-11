@@ -65,7 +65,7 @@ export default defineConfig({
     darkModeSwitchTitle: '切换到深色模式',
 
     /*** 自定义配置 ***/
-    visitor: {
+      visitor: {
       badgeId: 'maomao1996.vitepress-nav-template',
     },
 
@@ -75,6 +75,7 @@ export default defineConfig({
       category: 'Announcements',
       categoryId: 'DIC_kwDOJC09Js4Cekn0',
     },
+  },
 
   vite: {
     plugins: [MarkdownPreview()],
