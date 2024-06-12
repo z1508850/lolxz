@@ -23,7 +23,9 @@ hero:
 features:
  
 ---
-
+<script type="text/javascript">
+  window.location.href = "/nav";
+</script>
 <style>
 /*爱的魔力转圈圈*/
 .m-home-layout .image-src:hover {
