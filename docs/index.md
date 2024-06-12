@@ -5,21 +5,14 @@ comment: false
 hero:
   name: LOL
   text: 下载网盘
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  tagline: 您来到了未知领域 正在送您回家
   image:
-    src: /logo.png
+    src: /favicon.ico
     alt: LOL下载网盘
   actions:
     - text: LOL下载网盘
-      link: https://notes.fe-mm.com
-    - text: 前端导航
-      link: /nav/
-      theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
-      theme: alt
+      link: /nav
+   
 features:
  
 ---
