@@ -216,6 +216,12 @@ export const NAV_DATA: NavData[] = [
   {
     title: '周卡专区',
     items: [
+      {
+    icon: 'https://vip.helloimg.com/i/2024/04/25/662981485f83d.png',
+    title: '猫',
+    desc: '支持BOT EZ BGX 密码123',
+    link: 'https://wwb.lanzouq.com/b00oc11pbg',
+  },
     {
     icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/iUfxgddQsfxqORjavVfkgxqMAu3hli1HhJVfBHyU.png',
     title: 'OZ++',
