@@ -7,7 +7,7 @@ comment: false
 <script setup>
 import { NAV_DATA } from './data'
 </script>
-<style src="./index.scss"></style>
+<style src="./index.scss"> </style>
 
 # 下载导航
 ::: tip
