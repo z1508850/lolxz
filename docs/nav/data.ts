@@ -60,7 +60,7 @@ export const NAV_DATA: NavData[] = [
       {
     icon: 'https://pps.1064m2m.cn/micro_store/h1.png',
     title: '三网大流量卡',
-    desc: '三大运营商授权 官方正品保障',
+    desc: '三大运营商授权 官方正品保障 网速快流量多 资费更便宜',
     link: 'https://hk.yunhaoka.cn/#/pages/micro_store/index?agent_id=ef03564ba7319187b967e505d8255dd7',
         className: 'nav-link',
   },
