@@ -56,6 +56,12 @@ export const NAV_DATA: NavData[] = [
     title: 'R3nzSkin换肤【免费开源】',
     desc: '免费开源的换肤软件 全球服通用 已稳定更新两年',
     link: 'https://github.com/R3nzTheCodeGOD/R3nzSkin',
+  }, 
+      {
+    icon: 'https://pps.1064m2m.cn/micro_store/h1.png',
+    title: '三网大流量卡',
+    desc: '三大运营商授权 官方正品保障',
+    link: 'https://hk.yunhaoka.cn/#/pages/micro_store/index?agent_id=ef03564ba7319187b967e505d8255dd7',
   },
     ],
   },
