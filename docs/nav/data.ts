@@ -132,8 +132,13 @@ export const NAV_DATA: NavData[] = [
     desc: '支持BOT EZ BGX 密码123',
     link: 'https://wwc.lanzn.com/s/N--666',
   },
-
-  
+ {
+    icon: 'https://vip.helloimg.com/i/2024/04/30/66306107deff4.png',
+    title: 'Simple',
+    desc: '自带BOT 密码123',
+    link: 'https://wwk.lanzouj.com/b04w5imeb',
+  },
+ 
       {
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298078d2e13.png',
     title: 'KDA',
@@ -149,9 +154,9 @@ export const NAV_DATA: NavData[] = [
 
       {
         icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
-        title: '灰灰熊',
+        title: '蓝盾',
         desc: '支持BOT EZ BGX 密码123',
-        link: 'https://wwk.lanzouo.com/b00l0t6pyh',
+        link: 'https://wwk.lanzouo.com/b00l10cxyd',
       },
       {
         icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
@@ -186,9 +191,9 @@ export const NAV_DATA: NavData[] = [
       },
        {
         icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
-        title: 'ZTX',
-        desc: '自带BGX 密码123',
-        link: 'https://www.lanzoub.com/b00tanhn1a',
+        title: 'Panda',
+        desc: '支持BOT 密码123',
+        link: 'https://wwo.lanzouj.com/b00eesuhwh',
       },
       {
         icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
