@@ -38,7 +38,7 @@ export default defineConfig({
       label: '目录',
     },
 
-   console.log('测试');
+  bottom: '测试',
 
     footer: {
      
