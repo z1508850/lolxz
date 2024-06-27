@@ -7,4 +7,6 @@ export interface NavLink {
   desc?: string
   /** 站点链接 */
   link: string
+
+  className?: string;
 }
