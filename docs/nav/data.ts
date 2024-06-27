@@ -62,6 +62,7 @@ export const NAV_DATA: NavData[] = [
     title: '三网大流量卡',
     desc: '三大运营商授权 官方正品保障',
     link: 'https://hk.yunhaoka.cn/#/pages/micro_store/index?agent_id=ef03564ba7319187b967e505d8255dd7',
+        className: 'nav-link',
   },
     ],
   },
