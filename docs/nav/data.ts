@@ -185,10 +185,10 @@ export const NAV_DATA: NavData[] = [
         link: 'https://wwo.lanzouq.com/b00oc0j3lg',
       },
       {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
-        title: 'QQQ',
+        icon: 'https://vip.helloimg.com/i/2024/04/25/6629807904b91.png',
+        title: 'DHL',
         desc: '支持BOT EZ BGX 密码123',
-        link: 'https://wwo.lanzoul.com/b00tamvqwh',
+        link: 'https://www.lanzoub.com/b05f5f26j',
       },
        {
         icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
