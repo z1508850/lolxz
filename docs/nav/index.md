@@ -8,7 +8,7 @@ comment: false
 import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"> </style>
-
+ 
 # 下载导航
 ::: tip
 当前游戏版本: **14.13**
