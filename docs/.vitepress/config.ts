@@ -23,6 +23,14 @@ export default defineConfig({
     lineNumbers: true,
   },
 
+
+  lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'medium',
+      },
+    },
   /* 主题配置 */
   themeConfig: {
     i18nRouting: true,
@@ -45,13 +53,11 @@ export default defineConfig({
       copyright: 'Copyright © 2023-2024 LOL综合下载网盘',
     },
 
-    lastUpdated: {
-      text: '最后更新于',
-      formatOptions: {
-        dateStyle: 'short',
-        timeStyle: 'medium',
-      },
-    },
+
+
+
+
+    
 
     docFooter: {
       prev: '上一篇',
