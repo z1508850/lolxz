@@ -122,7 +122,7 @@ export const NAV_DATA: NavData[] = [
   link: 'https://wwp.lanzoue.com/b03ivayowj',
 },
 {
-  icon: 'https://vip.helloimg.com/i/2024/04/25/66298078e4930.png',
+  icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17596de5.png',
   title: 'QX',
   desc: '支持BOT EZ BGX',
   link: 'https://wwt.lanzouq.com/b0r9a4w3g',
@@ -155,26 +155,26 @@ export const NAV_DATA: NavData[] = [
   
 
       {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17661c49.png',
         title: '蓝盾',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwk.lanzouo.com/b00l10cxyd',
       },
       {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd175b0f03.png',
         title: 'CC',
         desc: '支持BOT 密码123',
         link: 'https://wwo.lanzouq.com/b00oc2eu0j',
       },
       
        {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd1764e673.png',
         title: '大马猴',
         desc: '支持BOT EZ BGX 密码123',
-        link: 'https://wwz.lanzouq.com/b0foii4kf',
+        link: 'https://share.feijipan.com/s/DqBHMCzp',
       },
        {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd1e4a87c5.png',
         title: 'GPT',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwo.lanzouq.com/b00oc0j3lg',
@@ -186,22 +186,23 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.lanzoub.com/b05f5f26j',
       },
        {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17572f78.png',
         title: '1#',
         desc: '支持BOT EZ 密码123',
         link: 'https://wuqituxing.lanzouo.com/b00654veob',
       },
-       {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
-        title: 'Panda',
-        desc: '支持BOT 密码123',
-        link: 'https://wwo.lanzouj.com/b00eesuhwh',
-      },
+      
       {
-        icon: 'https://vip.helloimg.com/i/2024/05/06/66389e8d62e37.png',
+        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd175c615d.png',
         title: 'DD',
         desc: '自带BGX 密码123',
         link: 'https://www.lanzoub.com/b0fhsucoh',
+      },
+        {
+        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd176394a6.png',
+        title: 'HD',
+        desc: '支持BOT EZ BGX',
+        link: 'https://www.lanzoub.com/b02xdfghra',
       },
     ],
   },
@@ -209,10 +210,16 @@ export const NAV_DATA: NavData[] = [
     title: '周卡专区',
     items: [
       {
-    icon: 'https://vip.helloimg.com/i/2024/04/25/662981485f83d.png',
+    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd1778f588.png',
     title: '猫',
     desc: '支持BOT EZ BGX 密码123',
     link: 'https://wwb.lanzouq.com/b00oc11pbg',
+  },
+       {
+    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17619785.png',
+    title: '海豚',
+    desc: '支持BOT BGX 密码123',
+    link: 'https://xttyyds.lanzoub.com/s/HTZK',
   },
     {
     icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/iUfxgddQsfxqORjavVfkgxqMAu3hli1HhJVfBHyU.png',
@@ -232,16 +239,16 @@ export const NAV_DATA: NavData[] = [
     title: '月卡专区',
     items: [
     {
-    icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/C5HWBdCy2CgBNHLWBDNGACnXTBFOWpca1e9vqR1H.png',
-    title: '龍',
-    desc: '自带BOT 支持BGX 暂未开放注册',
-    link: 'https://wwl.lanzout.com/b03ldfk9c',
+    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd175d50ec.png',
+    title: 'KS',
+    desc: '自带BOT 支持BGX 暂未开放注册 密码112233',
+    link: 'https://wwv.lanzouh.com/b00mokuo6d',
   },
   {
-    icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/NNY7mv3UiInEmCBxC15dgx50abeIgInobvXxTXAh.png',
-    title: 'Red bird',
-    desc: '一体化和+ZPX 暂未开放注册',
-    link: 'https://wwyd.lanzout.com/b03l4v62d',
+    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd176ea4cf.png',
+    title: 'Lei',
+    desc: '一体化和+ZPX 暂未开放注册 密码112233',
+    link: 'https://wwv.lanzouh.com/b00mokuo5c',
   },
     ],
   },
