@@ -24,13 +24,7 @@ export default defineConfig({
   },
 
 
-  lastUpdated: {
-      text: '最后更新于',
-      formatOptions: {
-        dateStyle: 'short',
-        timeStyle: 'medium',
-      },
-    },
+ 
   /* 主题配置 */
   themeConfig: {
     i18nRouting: true,
@@ -54,7 +48,13 @@ export default defineConfig({
     },
 
 
-
+ lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'medium',
+      },
+    },
 
 
     
