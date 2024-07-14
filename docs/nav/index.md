@@ -9,7 +9,7 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"> </style>
  
-# 下载导航
+# 下载导航 
 ::: tip
 当前游戏版本: **14.13**
 更新时间: **2024年6月27日**
