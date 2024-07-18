@@ -151,7 +151,12 @@ export const NAV_DATA: NavData[] = [
     desc: '自带BOT 密码123',
     link: 'https://wwk.lanzouj.com/b04w5imeb',
   },
- 
+   {
+  icon: 'https://vip.helloimg.com/i/2024/07/19/66993d1cf3cd6.png',
+  title: 'BB',
+  desc: '支持BOT EZ',
+  link: 'https://ww0.lanzouq.com/b00rn2rsxc',
+},
       {
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298078d2e13.png',
     title: 'KDA',
@@ -203,18 +208,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://wuqituxing.lanzouo.com/b00654veob',
       },
       
-      {
-        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd175c615d.png',
-        title: 'DD',
-        desc: '自带BGX 密码123',
-        link: 'https://www.lanzoub.com/b0fhsucoh',
-      },
-        {
-        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd176394a6.png',
-        title: 'HD',
-        desc: '支持BOT EZ BGX',
-        link: 'https://www.lanzoub.com/b02xdfghra',
-      },
+     
       {
         icon: 'https://vip.helloimg.com/i/2024/07/14/6693e7f18908c.png',
         title: 'FN',
