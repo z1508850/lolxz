@@ -116,10 +116,10 @@ export const NAV_DATA: NavData[] = [
     title: '天卡专区',
     items: [
      {
-  icon: 'https://vip.helloimg.com/i/2024/05/14/6642ebde324f4.png',
-  title: 'Teemo',
+  icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc39b4904.png',
+  title: '星空',
   desc: '支持BOT EZ',
-  link: 'https://wwp.lanzoue.com/b03ivayowj',
+  link: 'https://wwf.lanzoul.com/b02i91aof',
 },
 {
   icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17596de5.png',
@@ -179,16 +179,16 @@ export const NAV_DATA: NavData[] = [
         link: 'https://wuqituxing.lanzouo.com/b00657l10h',
       },
        {
-        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd1764e673.png',
-        title: '大马猴',
+        icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc826d4cc.png',
+        title: 'G8',
         desc: '支持BOT EZ BGX 密码123',
-        link: 'https://share.feijipan.com/s/DqBHMCzp',
+        link: 'https://wwf.lanzoub.com/b00pzo24he',
       },
        {
-        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd1e4a87c5.png',
-        title: 'GPT',
+        icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc39b767d.png',
+        title: '草莓',
         desc: '支持BOT EZ BGX 密码123',
-        link: 'https://wwo.lanzouq.com/b00oc0j3lg',
+        link: 'https://share.feijipan.com/s/00B5yFjf',
       },
       {
         icon: 'https://vip.helloimg.com/i/2024/04/25/6629807904b91.png',
