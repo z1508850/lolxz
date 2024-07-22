@@ -166,6 +166,12 @@ export const NAV_DATA: NavData[] = [
   
 
       {
+        icon: 'https://vip.helloimg.com/i/2024/07/22/669e1c771c16e.png',
+        title: 'PS',
+        desc: '支持BOT 密码6666',
+        link: 'https://www.123pan.com/s/SXywTd-wdEod.html',
+      },
+       {
         icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17661c49.png',
         title: '蓝盾',
         desc: '支持BOT EZ BGX 密码123',
