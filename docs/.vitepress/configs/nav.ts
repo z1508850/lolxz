@@ -8,5 +8,5 @@ export const nav: DefaultTheme.Config['nav'] = [
     link: 'https://badspacebar.github.io/sdk/index.html',
   },
   { text: 'BGX数据库', link: 'https://bgxdb.com/' },
-  
+  { text: '免责声明', link: '/test/' },
 ]
