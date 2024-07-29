@@ -1,5 +1,6 @@
 ---
 title: 免责声明
+comment: false
 ---
 
 # 免责声明
@@ -40,6 +41,4 @@ title: 免责声明
 本网站团队
 
 日期：2024年7月29日
----
-comment: false
----
+
