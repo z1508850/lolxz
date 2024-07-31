@@ -216,6 +216,12 @@ export const NAV_DATA: NavData[] = [
     desc: '支持BOT EZ BGX 密码123',
     link: 'https://wwb.lanzouq.com/b00oc11pbg',
   },
+      {
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6c4e4886f.png',
+    title: 'CPP',
+    desc: '支持BOT EZ BGX 密码123',
+    link: 'https://wwk.lanzoul.com/b00rn8odhe',
+  },
        {
     icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17619785.png',
     title: '海豚',
@@ -234,6 +240,7 @@ export const NAV_DATA: NavData[] = [
     desc: '支持 EZ BGX 密码123',
     link: 'https://oozzxxgg.lanzouo.com/b05370s7g',
   },
+      
     ],
   },
   {
