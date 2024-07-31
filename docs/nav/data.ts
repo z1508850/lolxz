@@ -357,7 +357,7 @@ export const NAV_DATA: NavData[] = [
     title: '机器码专区',
     items: [
       {
-        icon: 'https://vip.helloimg.com/i/2024/05/14/6642ebde324f4.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc6eb53b.png',
         title: '提莫',
         desc: '可过可预防 密码123 ',
         link: 'https://wwp.lanzoue.com/b03iv9x23g',
