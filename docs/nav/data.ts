@@ -127,12 +127,13 @@ export const NAV_DATA: NavData[] = [
   desc: '支持BOT EZ BGX 密码123',
   link: 'https://wwp.lanzoum.com/b00mofirib',
 },
-        {
-    icon: 'https://cdn3.codesign.qq.com/screens/2023/10/28/xDP3923q4EY410jwlKp28/z3fvdqcm8bpgjjbu/81ea4c29-c2b4-4fd4-bcf7-1cbff62a510a.jpg',
-    title: 'KG',
-    desc: '支持BOT EZ ',
-    link: 'https://ww0.lanzouv.com/b00mokkdne',
-  },
+     {
+        icon: 'https://vip.helloimg.com/i/2024/08/01/66aa698940fdb.png',
+        title: '梨花熊Lori',
+        desc: '支持BOT EZ 密码123',
+        link: 'https://lori.lanzouo.com/b00658r6rg',
+      },
+      
      {
     icon: 'https://vip.helloimg.com/i/2024/05/14/6642ed4705264.png',
     title: 'N++',
@@ -177,12 +178,7 @@ export const NAV_DATA: NavData[] = [
         desc: '支持BOT 密码123',
         link: 'https://wwo.lanzouq.com/b00oc2eu0j',
       },
-       {
-        icon: 'https://vip.helloimg.com/i/2024/07/14/6693e7f1858ac.png',
-        title: 'Yuumi',
-        desc: '支持BOT EZ BGX ',
-        link: 'https://wuqituxing.lanzouo.com/b00657l10h',
-      },
+      
        {
         icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc826d4cc.png',
         title: 'G8',
@@ -196,16 +192,10 @@ export const NAV_DATA: NavData[] = [
         link: 'https://lanzouw.com/b028keezrc',
       },
       {
-        icon: 'https://vip.helloimg.com/i/2024/04/25/6629807904b91.png',
-        title: 'DHL',
+        icon: 'https://vip.helloimg.com/i/2024/08/01/66aa69890d909.png',
+        title: 'FQA',
         desc: '支持BOT EZ BGX 密码123',
-        link: 'https://www.lanzoub.com/b05f5f26j',
-      },
-       {
-        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17572f78.png',
-        title: '1#',
-        desc: '支持BOT EZ 密码123',
-        link: 'https://wuqituxing.lanzouo.com/b00654veob',
+        link: 'https://wwk.lanzoul.com/b00rn89z4d',
       },
       
      
