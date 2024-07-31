@@ -64,7 +64,7 @@ export const NAV_DATA: NavData[] = [
     title: 'GS专区',
     items: [
         {
-    icon: 'https://vip.helloimg.com/i/2024/04/25/66298078e8c54.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc48dc15.png',
     title: 'EZ',
     desc: '单板GS 最强足本 密码123',
     link: 'https://wwl.lanzn.com/b04ffqhsb',
@@ -110,50 +110,50 @@ export const NAV_DATA: NavData[] = [
     title: '天卡专区',
     items: [
      {
-  icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc39b4904.png',
+  icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc47ca30.png',
   title: '星空',
   desc: '支持BOT EZ',
   link: 'https://wwf.lanzoul.com/b02i91aof',
 },
 {
-  icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17596de5.png',
+  icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc47f7c1.png',
   title: 'QX',
   desc: '支持BOT EZ BGX',
   link: 'https://wwt.lanzouq.com/b0r9a4w3g',
 },
 {
-  icon: 'https://vip.helloimg.com/i/2024/05/14/6642ed0b055ba.png',
+  icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc47cad8.png,
   title: 'AW',
   desc: '支持BOT EZ BGX 密码123',
   link: 'https://wwp.lanzoum.com/b00mofirib',
 },
      {
-        icon: 'https://vip.helloimg.com/i/2024/08/01/66aa698940fdb.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc47c93a.png',
         title: '梨花熊Lori',
         desc: '支持BOT EZ 密码123',
         link: 'https://lori.lanzouo.com/b00658r6rg',
       },
       
      {
-    icon: 'https://vip.helloimg.com/i/2024/05/14/6642ed4705264.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6e242ca0b.png',
     title: 'N++',
     desc: '支持BOT EZ BGX 密码123',
     link: 'https://wwc.lanzn.com/s/N--666',
   },
  {
-    icon: 'https://vip.helloimg.com/i/2024/04/30/66306107deff4.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc56a4fc.png',
     title: 'Simple',
     desc: '自带BOT 密码123',
     link: 'https://wwk.lanzouj.com/b04w5imeb',
   },
    {
-  icon: 'https://vip.helloimg.com/i/2024/07/19/66993d1cf3cd6.png',
+  icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc563fcd.png',
   title: 'BB',
   desc: '支持BOT EZ',
   link: 'https://ww0.lanzouq.com/b00rn2rsxc',
 },
       {
-    icon: 'https://vip.helloimg.com/i/2024/04/25/66298078d2e13.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc47ccaf.png',
     title: 'KDA',
     desc: '自带BOT 密码123',
     link: 'https://wwsv.lanzoul.com/b052xrm4j',
@@ -161,38 +161,38 @@ export const NAV_DATA: NavData[] = [
   
 
       {
-        icon: 'https://vip.helloimg.com/i/2024/07/22/669e1c771c16e.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc56953d.png',
         title: 'PS',
         desc: '支持BOT 密码6666',
         link: 'https://ww0.lanzn.com/b00tardbmj',
       },
        {
-        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17661c49.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc5b0171.png',
         title: '蓝盾',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwk.lanzouo.com/b00l10cxyd',
       },
       {
-        icon: 'https://vip.helloimg.com/i/2024/07/09/668cd175b0f03.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc599a28.png',
         title: 'CC',
         desc: '支持BOT 密码123',
         link: 'https://wwo.lanzouq.com/b00oc2eu0j',
       },
       
        {
-        icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc826d4cc.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc593394.png',
         title: 'G8',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwf.lanzoub.com/b00pzo24he',
       },
        {
-        icon: 'https://vip.helloimg.com/i/2024/07/21/669bf88537229.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc627fa4.png',
         title: 'TP',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://lanzouw.com/b028keezrc',
       },
       {
-        icon: 'https://vip.helloimg.com/i/2024/08/01/66aa69890d909.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc63832d.png',
         title: 'FQA',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwk.lanzoul.com/b00rn89z4d',
@@ -200,7 +200,7 @@ export const NAV_DATA: NavData[] = [
       
      
       {
-        icon: 'https://vip.helloimg.com/i/2024/07/14/6693e7f18908c.png',
+        icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc64d27a.png',
         title: 'FN',
         desc: '自带BGX 支持BOT 密码123',
         link: 'https://wwi.lanzoup.com/b03alr83ba',
@@ -211,7 +211,7 @@ export const NAV_DATA: NavData[] = [
     title: '周卡专区',
     items: [
       {
-    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd1778f588.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc686b1e.png',
     title: '猫',
     desc: '支持BOT EZ BGX 密码123',
     link: 'https://wwb.lanzouq.com/b00oc11pbg',
@@ -223,7 +223,7 @@ export const NAV_DATA: NavData[] = [
     link: 'https://wwk.lanzoul.com/b00rn8odhe',
   },
        {
-    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17619785.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc67cf9c.png',
     title: '海豚',
     desc: '支持BOT BGX 密码123',
     link: 'https://xttyyds.lanzoub.com/s/HTZK',
@@ -235,7 +235,7 @@ export const NAV_DATA: NavData[] = [
     link: 'https://www.lanzouw.com/b04f7eh6j',
   },
   {
-    icon: 'https://vip.helloimg.com/i/2024/04/25/66298078e06e4.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc67166e.png',
     title: 'PolarMirror',
     desc: '支持 EZ BGX 密码123',
     link: 'https://oozzxxgg.lanzouo.com/b05370s7g',
@@ -247,13 +247,13 @@ export const NAV_DATA: NavData[] = [
     title: '月卡专区',
     items: [
     {
-    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd175d50ec.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6ec919bdb.png',
     title: 'KS',
     desc: '自带BOT 支持BGX 暂未开放注册 密码112233',
     link: 'https://wwv.lanzouh.com/b00mokuo6d',
   },
   {
-    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd176ea4cf.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6ecb6eaaf.png',
     title: 'Lei',
     desc: '一体化和+ZPX 暂未开放注册 密码112233',
     link: 'https://wwv.lanzouh.com/b00mokuo5c',
@@ -270,7 +270,7 @@ export const NAV_DATA: NavData[] = [
     link: 'https://www.lanzouw.com/b04f7eh6j',
   },
       {
-    icon: 'https://vip.helloimg.com/i/2024/04/25/66298079005f2.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc70a0fa.png',
     title: '无心',
     desc: '单板走砍 密码123',
     link: 'https://wud.lanzoul.com/b00hpwydgj',
