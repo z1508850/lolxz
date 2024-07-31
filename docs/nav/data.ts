@@ -122,7 +122,7 @@ export const NAV_DATA: NavData[] = [
   link: 'https://wwt.lanzouq.com/b0r9a4w3g',
 },
 {
-  icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc47cad8.png,
+  icon: 'https://www.freeimg.cn/i/2024/08/01/66aa6dc47cad8.png',
   title: 'AW',
   desc: '支持BOT EZ BGX 密码123',
   link: 'https://wwp.lanzoum.com/b00mofirib',
