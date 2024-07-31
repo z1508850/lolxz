@@ -29,7 +29,7 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: true,
 
-    logo: 'https://vip.helloimg.com/i/2024/06/11/66681ed70ba35.png',
+    logo: 'https://www.freeimg.cn/i/2024/08/01/66aa70a529bb6.ico',
 
     nav,
     sidebar,
