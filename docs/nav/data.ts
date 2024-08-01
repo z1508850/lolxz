@@ -135,10 +135,10 @@ export const NAV_DATA: NavData[] = [
       },
       
      {
-    icon: 'https://vip.helloimg.com/i/2024/05/14/6642ed4705264.png',
-    title: 'N++',
+    icon: 'https://vip.helloimg.com/i/2024/08/01/66ab15bf81ac8.png',
+    title: 'CT',
     desc: '支持BOT EZ BGX 密码123',
-    link: 'https://wwc.lanzn.com/s/N--666',
+    link: 'https://wwf.lanzouq.com/s/CTNB',
   },
  {
     icon: 'https://vip.helloimg.com/i/2024/04/30/66306107deff4.png',
