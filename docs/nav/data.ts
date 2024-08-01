@@ -211,10 +211,10 @@ export const NAV_DATA: NavData[] = [
     title: '周卡专区',
     items: [
       {
-    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd1778f588.png',
-    title: '猫',
+    icon: 'https://vip.helloimg.com/i/2024/08/01/66ab18c255a45.png',
+    title: '传承',
     desc: '支持BOT EZ BGX 密码123',
-    link: 'https://wwb.lanzouq.com/b00oc11pbg',
+    link: 'https://wwi.lanzouq.com/b00oc620vc',
   },
       {
     icon: 'https://vip.helloimg.com/i/2024/08/01/66ab13e51cd2f.png',
