@@ -109,12 +109,7 @@ export const NAV_DATA: NavData[] = [
   {
     title: '天卡专区',
     items: [
-     {
-  icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc39b4904.png',
-  title: '星空',
-  desc: '支持BOT EZ',
-  link: 'https://wwf.lanzoul.com/b02i91aof',
-},
+   
 {
   icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17596de5.png',
   title: 'QX',
@@ -222,12 +217,7 @@ export const NAV_DATA: NavData[] = [
     desc: '支持BOT EZ BGX 密码123',
     link: 'https://wwk.lanzoul.com/b00rn8odhe',
   },
-       {
-    icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17619785.png',
-    title: '海豚',
-    desc: '支持BOT BGX 密码123',
-    link: 'https://xttyyds.lanzoub.com/s/HTZK',
-  },
+  
     {
     icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/iUfxgddQsfxqORjavVfkgxqMAu3hli1HhJVfBHyU.png',
     title: 'OZ++',
