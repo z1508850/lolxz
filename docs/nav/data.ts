@@ -168,6 +168,12 @@ export const NAV_DATA: NavData[] = [
         desc: '支持BOT 密码123',
         link: 'https://wwo.lanzouq.com/b00oc2eu0j',
       },
+       {
+        icon: 'https://vip.helloimg.com/i/2024/07/14/6693e7f18908c.png',
+        title: '暴走萝莉',
+        desc: '自带BGX 支持BOT 密码123',
+        link: 'https://wwo.lanzouj.com/b00eey6f0f',
+      },
       
        {
         icon: 'https://vip.helloimg.com/i/2024/07/18/6698bc826d4cc.png',
@@ -329,12 +335,7 @@ export const NAV_DATA: NavData[] = [
   {
     title: '特权专区',
     items: [
-       {
-        icon: 'https://vip.helloimg.com/i/2024/08/01/66ab149ae3cd4.png',
-  title: '土豆特权',
-  desc: '全系统秒卡特权',
-  link: 'https://wud.lanzoul.com/b00hpzi6wf',
-      },
+    
       {
         icon: 'https://vip.helloimg.com/i/2024/04/25/6629807904b91.png',
   title: '熊猫特权',
