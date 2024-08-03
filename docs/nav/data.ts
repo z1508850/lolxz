@@ -122,12 +122,7 @@ export const NAV_DATA: NavData[] = [
   desc: '支持BOT EZ BGX 密码123',
   link: 'https://wwp.lanzoum.com/b00mofirib',
 },
-     {
-        icon: 'https://vip.helloimg.com/i/2024/08/01/66aa698940fdb.png',
-        title: '梨花熊Lori',
-        desc: '支持BOT EZ 密码123',
-        link: 'https://lori.lanzouo.com/b00658r6rg',
-      },
+    
       
      {
     icon: 'https://vip.helloimg.com/i/2024/08/01/66ab15bf81ac8.png',
@@ -194,11 +189,11 @@ export const NAV_DATA: NavData[] = [
       },
       
      
-      {
-        icon: 'https://vip.helloimg.com/i/2024/07/14/6693e7f18908c.png',
-        title: 'FN',
-        desc: '自带BGX 支持BOT 密码123',
-        link: 'https://wwi.lanzoup.com/b03alr83ba',
+     {
+        icon: 'https://vip.helloimg.com/i/2024/08/01/66aa698940fdb.png',
+        title: '梨花熊Lori',
+        desc: '支持BOT EZ 密码123',
+        link: 'https://lori.lanzouo.com/b00658r6rg',
       },
     ],
   },
