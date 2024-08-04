@@ -163,7 +163,7 @@ export const NAV_DATA: NavData[] = [
       },
        {
         icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17661c49.png',
-        title: 'PS',
+        title: '蓝盾',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwk.lanzouo.com/b00l10cxyd',
       },
