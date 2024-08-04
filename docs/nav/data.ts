@@ -148,7 +148,12 @@ export const NAV_DATA: NavData[] = [
     desc: '自带BOT 密码123',
     link: 'https://wwsv.lanzoul.com/b052xrm4j',
   },
-  
+   {
+    icon: 'https://vip.helloimg.com/i/2024/08/04/66af3f83e5be5.png',
+    title: 'EVA',
+    desc: '支持BOT EZ BGX',
+    link: 'https://ww0.lanzouv.com/b00mon3odg',
+  },
 
       {
         icon: 'https://vip.helloimg.com/i/2024/07/22/669e1c771c16e.png',
@@ -158,7 +163,7 @@ export const NAV_DATA: NavData[] = [
       },
        {
         icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17661c49.png',
-        title: '蓝盾',
+        title: 'PS',
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwk.lanzouo.com/b00l10cxyd',
       },
