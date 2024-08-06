@@ -114,7 +114,7 @@ export const NAV_DATA: NavData[] = [
   icon: 'https://vip.helloimg.com/i/2024/07/09/668cd17596de5.png',
   title: 'QX',
   desc: '支持BOT EZ BGX',
-  link: 'https://wwt.lanzouq.com/b0r9a4w3g',
+  link: 'https://wwt.lanzouq.com/b0r9frd7e',
 },
 {
   icon: 'https://vip.helloimg.com/i/2024/05/14/6642ed0b055ba.png',
