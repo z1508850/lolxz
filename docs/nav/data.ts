@@ -67,7 +67,7 @@ export const NAV_DATA: NavData[] = [
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298078e8c54.png',
     title: 'EZ',
     desc: '单板GS 最强足本 密码123',
-    link: 'https://wwl.lanzn.com/b04ffqhsb',
+    link: 'https://wwl.lanzn.com/b00g2i14kd',
   },
   {
     icon: 'https://cdn3.codesign.qq.com/screens/2023/10/28/xDP3923q4EY410jwlKp28/cj2n0pqlqxgyazjg/8a3a2d24-2434-4d1d-b5f6-d113c9bc54e6.png',
