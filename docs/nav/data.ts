@@ -321,7 +321,7 @@ export const NAV_DATA: NavData[] = [
     icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/BtjbI5P352llPo49xacKLREBnhWDlkhzuJojIVgx.png',
     title: 'US',
     desc: 'BOT缓存 销量第一 密码123',
-    link: 'https://wwmx.lanzoum.com/b052ig10d',
+    link: 'https://wwla.lanzouh.com/b00mongeyf',
   },
       {
     icon: 'https://cdn3.codesign.qq.com/screens/2023/10/28/xDP3923q4EY410jwlKp28/z3fvdqcm8bpgjjbu/81ea4c29-c2b4-4fd4-bcf7-1cbff62a510a.jpg',
@@ -333,7 +333,7 @@ export const NAV_DATA: NavData[] = [
     icon: 'https://cdn3.codesign.qq.com/screens/previews/2023/10/28/germ9dNY295D34CLt3fyIArM6eHEaTmGfYxW2Hos.png',
     title: 'RS',
     desc: 'GS缓存 US同作者 销量第一 密码123',
-    link: 'https://wwmx.lanzoum.com/b052ig11e',
+    link: 'https://wwla.lanzouh.com/b00mongf4b',
   },
     ],
   },
