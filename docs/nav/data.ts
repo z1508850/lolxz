@@ -146,7 +146,7 @@ export const NAV_DATA: NavData[] = [
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298078d2e13.png',
     title: 'KDA',
     desc: '自带BOT 密码123',
-    link: 'https://wwsv.lanzoul.com/b052xrm4j',
+    link: 'https://wwi.lanzoul.com/b00mongpgd',
   },
    {
     icon: 'https://vip.helloimg.com/i/2024/08/04/66af3f83e5be5.png',
