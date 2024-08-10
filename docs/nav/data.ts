@@ -138,9 +138,9 @@ export const NAV_DATA: NavData[] = [
   },
    {
   icon: 'https://vip.helloimg.com/i/2024/07/19/66993d1cf3cd6.png',
-  title: 'BB',
+  title: 'TT',
   desc: '支持BOT EZ',
-  link: 'https://ww0.lanzouq.com/b00rn2rsxc',
+  link: 'https://wwo.lanzouq.com/b00oc7068j',
 },
       {
     icon: 'https://vip.helloimg.com/i/2024/04/25/66298078d2e13.png',
