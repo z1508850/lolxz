@@ -124,12 +124,7 @@ export const NAV_DATA: NavData[] = [
 },
     
       
-     {
-    icon: 'https://vip.helloimg.com/i/2024/08/01/66ab15bf81ac8.png',
-    title: 'CT',
-    desc: '支持BOT EZ BGX 密码123',
-    link: 'https://wwf.lanzouq.com/s/CTNB',
-  },
+    
  {
     icon: 'https://vip.helloimg.com/i/2024/04/30/66306107deff4.png',
     title: 'Simple',
@@ -188,8 +183,8 @@ export const NAV_DATA: NavData[] = [
       },
        {
         icon: 'https://vip.helloimg.com/i/2024/07/21/669bf88537229.png',
-        title: 'TP',
-        desc: '支持BOT EZ BGX 密码123',
+        title: 'HH',
+        desc: '原TP 支持BOT EZ BGX 密码123',
         link: 'https://lanzouw.com/b028keezrc',
       },
       {
@@ -200,17 +195,18 @@ export const NAV_DATA: NavData[] = [
       },
       
      
-     {
-        icon: 'https://vip.helloimg.com/i/2024/08/01/66aa698940fdb.png',
-        title: '梨花熊Lori',
-        desc: '支持BOT EZ 密码123',
-        link: 'https://lori.lanzouo.com/b00658r6rg',
-      },
+    
     ],
   },
   {
     title: '周卡专区',
     items: [
+       {
+    icon: 'https://vip.helloimg.com/i/2024/08/01/66ab18c255a45.png',
+    title: '吕布',
+    desc: '支持BOT EZ BGX 密码123',
+    link: 'https://wwow.lanzouq.com/b00oc7ctij',
+  },
       {
     icon: 'https://vip.helloimg.com/i/2024/08/01/66ab18c255a45.png',
     title: '传承',
