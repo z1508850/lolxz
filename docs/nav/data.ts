@@ -164,7 +164,7 @@ export const NAV_DATA: NavData[] = [
         desc: '支持BOT EZ BGX 密码123',
         link: 'https://wwfk.lanzouo.com/b00l14x3ba',
       },
-      
+       
        {
         icon: 'https://vip.helloimg.com/i/2024/04/25/6629807904b91.png',
         title: 'VK',
