@@ -123,7 +123,12 @@ export const NAV_DATA: NavData[] = [
   link: 'https://wwp.lanzoum.com/b00mofirib',
 },
     
-      
+      {
+  icon: 'https://vip.helloimg.com/i/2024/08/18/66c1b3860f0f4.png',
+  title: 'BiliBili',
+  desc: '支持BOT EZ BGX 密码123',
+  link: 'https://wwme.lanzouq.com/b00oc7srje',
+},
     
 
    {
@@ -192,7 +197,7 @@ export const NAV_DATA: NavData[] = [
     title: '周卡专区',
     items: [
        {
-    icon: 'https://vip.helloimg.com/i/2024/08/01/66ab18c255a45.png',
+    icon: 'https://www.freeimg.cn/i/2024/08/18/66c1b596362eb.ico',
     title: '吕布',
     desc: '支持BOT EZ BGX 密码123',
     link: 'https://wwow.lanzouq.com/b00oc7ctij',
